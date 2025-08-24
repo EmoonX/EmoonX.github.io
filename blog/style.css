@@ -1,0 +1,15 @@
+body {
+	margin: auto;
+  width: 700px;
+	padding: 64px;
+	background-color: rgb(28, 27, 34);
+	color: rgb(251, 251, 254);
+  font-family: sans-serif;
+  line-height: 1.5em;
+}
+
+img {
+  max-width: 100%;
+  border-radius: .2em;
+  box-shadow: 0 0 .3em #0004;
+}
