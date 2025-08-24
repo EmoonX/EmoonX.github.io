@@ -16,7 +16,7 @@
       <p>The facts, opinions, interpretations and arguments presented here are either mine alone or have been already subject of countless private conversations with acquaintances.</p>
       <p>Yes, it&#39;s supposed to be big and yes, it&#39;s supposed to be exhaustive (in both senses of the word). Plus, screenshots galore (as I know people <em>love</em> those).</p>
       <p>As such, this is last occasion (and the sole one in years) I&#39;ll be ever addressing the points presented here. I figured out making such a centralized enormous piece of info public is not only a need but also a way for me to stop wasting time. As the saying goes: <em>Verba volant, scripta manent</em>.</p>
-      <p>I hope no stone is left unturned &mdash; But even if some do, this thing can always be expanded and edited later.</p>
+      <p>I hope no stone is left unturned &mdash; but even if some do, this thing can always be expanded and edited later.</p>
       <p>Last, but not least, if you see anyone diving into points already covered here, then please:</p>
       <ul>
       <li>don&#39;t engage</li>
@@ -28,7 +28,7 @@
       <p>Let&#39;s just start with the best part straight away.</p>
       <h2 id="parmesan">Parmesan</h2>
       <p><img src="enigma/fair-use.png" alt="fair-use"></p>
-      <p>First of all: why should we do it?</p>
+      <p>First of all: why should we do it, again?</p>
       <ul>
       <li>&quot;don&#39;t feeling good about my riddle there&quot; isn&#39;t enough of a reason</li>
       <li>&quot;don&#39;t liking the main dev&quot; isn&#39;t enough of a reason</li>
@@ -40,10 +40,10 @@
       <p>Whenever the subject is repeatedly mentioned (which happens <em>ad nauseum</em>), one of the inspirations for this project, <a href="https://retroachievements.org/">RetroAchievements</a> always come to mind: a platform that behaves independently and works a shell over third-party content. They make a clear distinction between <em>adding achievements</em> to old games and actually <em>hosting</em> those (i.e ROMs) &mdash; and they can&#39;t do the former by any means as, after all, <a href="https://www.youtube.com/watch?v=TRHv3d2CeaU">we all know what would happen otherwise</a>.</p>
       <figure>
         <img src="enigma/retro-parmesan.png" alt="retro-parmesan">
-        <figcaption>in a parallel universe, this is probably how it would go</figcaption>
+        <figcaption>in a parallel universe, this is probably how it would go.</figcaption>
       </figure>
 
-      <p>Likewise, there&#39;s also an obvious difference at play in R between <em>cataloging URLs</em> and <em>hosting 1:1 content</em>. <strong><em>If</em></strong>, at any point, we were to release a public archive of a dead riddle, <strong><em>then</em></strong> the best course of action would be, indeed, requesting prior permission <em>or</em> complying to removal/unlisting requests. This is even a stricter version of what <a href="https://archive.org/">https://archive.org</a> does, and not only a decent concession to be made, but also <em>my</em> personal opinion on the subject<sup>1</sup>.</p>
+      <p>Likewise, there&#39;s also an obvious difference at play in R between <em>cataloging URLs</em> and <em>hosting 1:1 content</em>. <strong><em>If</em></strong>, at any point, we were to release a public archive of a dead riddle, <strong><em>then</em></strong> the best course of action would be, indeed, requesting prior permission <em>or</em> complying to removal/unlisting requests. This is even a stricter version of what <a href="https://archive.org/">https://archive.org</a> does, and not only a decent concession to be made, but also <em>my</em> personal opinion on the subject<sup id="1"><a href="#ref-1">1</a></sup>.</p>
       <p>The same questions go unanswered. What should we do about the following categories of riddles:</p>
       <ul>
       <li>the ones with dead/long-gone creators (some unreachable not even through Nordinho anymore)?</li>
@@ -119,7 +119,7 @@
       <h2 id="dusted-talk-reloaded">Dusted talk, reloaded</h2>
       <h3 id="page-harvesting">Page harvesting</h3>
       <p>It isn&#39;t new. It has been in the codebase since over 3 years ago (<a href="https://github.com/EmoonX/riddler/commit/dae30fd5ef05c2c6fcd223b17a548649bed7c5b3">yes, really</a>). It has been repeatedly mentioned (and/or hinted at) in  several announcements since the start of the year. It is mentioned in <a href="https://riddler.app/faq#i-ve-found-a-missing-page-do-i-need-to-report-it-">this section of the F.A.Q.</a>.</p>
-      <p>Most importantly, it is mentioned <a href="enigma/privacy-urls.png">in the Privacy Policy page</a>, which establish pages/URLs are harvested to the system. So if someone thinks we&#39;re &quot;breaching privacy&quot; by collectings &quot;links&quot; [sic], this means that either: 1. they haven&#39;t read the PP and/or 2. they can&#39;t interpret stuff for their lives and end up assuming spaghetti out of it.</p>
+      <p>Most importantly, it is mentioned <a href="enigma/privacy-urls.png">in the Privacy Policy page</a>, which establish pages/URLs are harvested to the system. So if someone thinks we&#39;re &quot;breaching privacy&quot; by collecting &quot;links&quot; [sic], this means that either: 1. they haven&#39;t read the PP and/or 2. they can&#39;t interpret stuff for their lives and end up assuming spaghetti out of it.</p>
       <p>95% of content comes from our own inner contributors. The remaining 5% are, basically, random eggs; several of which can&#39;t even be deduced to what level they are from without further info or by those external players intentionally DMing us.</p>
       <p>Even if someone <strong><em>were</em></strong> to stumble upon unseen content for levels we haven&#39;t added yet, we still wouldn&#39;t make use of it. Why? Because not only our collaborators prefer <em>solving levels</em> by themselves first, but also because we need to <em>understand how those work</em>, <em>rank</em> them, and possibly devise achievements. In this process, arbitrary pages gotten beforehand by others have little use to us.</p>
       <p>Long story short:</p>
@@ -145,13 +145,16 @@
       </ul>
       <p>What does all of those all have in common? <em>Encryption doesn´t help an ounce in mitigating them.</em></p>
       <p>If there <em>is</em> something where field-level encryption would be useful for, that would be against <em>raw database leaks</em> (e.g usually in the form of SQL injects; which is I guess is where most people are coming from). Is it worth it? Nope. Not only because it would block not even 20% of the overall attack possibilities, but also because this area can be protected in several other ways: <em>by restricting arbitrary queries, blocking IPs, securing and making strong DB admin passwords</em>, etc etc.</p>
-      <p>To sum it up: data needs to follow certain <em>patterns</em> and <em>restrictions</em> for the encryption to truly hold and be worth of it. If it doesn&#39;t, then we&#39;d be just complicating how we handle date in exchange for phony protection.</p>
+      <p>To sum it up: data needs to follow certain <em>patterns</em> and <em>restrictions</em> for the encryption to truly hold and be worth of it. If it doesn&#39;t, then we&#39;d be just complicating how we handle data in exchange for phony protection.</p>
       <p>All in all, it is so naïve and shallow for some to think that, in a behemoth of a project like this, full of complex decisions and minute details I know almost like the back of my hand (which most people wouldn&#39;t understand even IF given an explanation for)... that I haven&#39;t implemented feature X the &quot;obvious&quot; way because <code>&quot;lmaooo let&#39;s mess with everyone xDDD&quot;</code>. OR, that I&#39;m somehow <em>incompetent</em> enough (projection?) in a way that people who never even toyed with a database in their lives &mdash; and several of which already proved their obtuse coding unsavviness around &mdash; to believe they know better than the programmer behind the codebase itself.</p>
       <p>Furthermore, you also don&#39;t know about the additional procedures employed for other (and more subtle) security guarantees. Like the somewhat recent care in developing the (tiresome) riddle credentials feature (e.g to make sure no players got access to username/password pairs they shouldn&#39;t); in fact, there&#39;s a <a href="https://riddler.app/privacy-policy#riddle-credentials">whole ass section in the Privacy Policy explaining the rationale behind those</a>.</p>
       <p>You see now how this is much more complicated than envisioning a bunch of garbled characters in the DB fields and resting safe about it?</p>
       <p>And, much certainly, just because, at some point, a certain too-smart-from-his-own-good Hong Kong native (he&#39;ll be mentioned throughout this blog post, be ready for it) started this stupid argument, and the sheep followed.</p>
-      <p><img src="enigma/string-heckler.png" alt="string-heckler">
-        <figcaption>In some esoterically comical way though, he proved by himself to apparently <em>not know much</em> about said <em>security</em> when it comes about protecting his own product instead.</figcaption></p>
+      <figure>
+      <img src="enigma/string-heckler.png" alt="string-heckler">
+        <figcaption>In some esoterically comical way though, he proved by himself to apparently <em>not know much</em> about said <em>security</em> when it comes about protecting his own product instead.</figcaption>
+      </figure>
+
       <h3 id="-middle-ground-what-is-that-">&quot;Middle ground? What is that?&quot;</h3>
       <ul>
       <li><p><em>If someone is wary about having their riddles on R</em>: they could, you know, request merely some kind of <em>unlisting</em>. So the riddles don&#39;t appear publicly and thus there&#39;s no &quot;involvement&quot; with the platform. This, as a matter of fact, <em>already exists</em> and has been even employed before (with a <a href="https://riddler.app/string/">certain riddle</a> from someone who &mdash; purposedly or not &mdash; forgot this feature is even a thing). What people do instead? They shame and their request straight removals, no ifs nor buts.</p>
@@ -166,11 +169,11 @@
       <p>People urgently need to understand that, in such a project with only a single developer, just half a dozen of inner collaborators, <code>15k</code> lines of code and <a href="https://github.com/EmoonX/riddler/issues">lots of still open issues on GitHub</a>... that if we implemented feature X yet or not the way you&#39;d expect, that doesn&#39;t mean we are being lazy, or inconsiderate, or intentionally relegating stuff. It&#39;s just that <strong><em>there&#39;s too much to work on</em></strong>; and what it may seen &quot;urgent&quot; or &quot;obvious&quot; for you, isn&#39;t necessarily the case for us (or even in general).</p>
       <p>As of proof of concept, no better example than what started the last BS:</p>
       <ol>
-      <li>people find out riddle Z has a level (out of the global amount of 1500 currently in the platform) accessible in R when it shouldn&#39;t be^1</li>
+      <li>people find out riddle Z has a level (out of the global amount of 1500 currently in the platform) accessible in R when it shouldn&#39;t be</li>
       <li>creator of Z makes uneeded drama out of it &mdash; even to the point of harassing the messenger</li>
-      <li>turns out that the own creator of Z messed up when adding that level years ago (which is made worse by the fact levels back then had noticeable <em>hard requirements</em>, i.e you couldn´t record progress for a locked level without reaching the required ones first). Turns out <strong><em>also</em></strong> that the creator of X messed up in his own website, by making that level always accessible to anyone straight away using a simple JS exploit (and alas, this isn&#39;t fixed even up to this day)</li>
+      <li>turns out that the own creator of Z messed up when adding that level years ago (which is made worse by the fact levels back then had noticeable <em>hard requirements</em>, i.e you couldn´t record progress for a locked level without reaching the required ones first). Turns out <strong><em>also</em></strong> that the creator of Z messed up in his own website, by making that level always accessible to anyone straight away using a simple JS exploit (and alas, this isn&#39;t fixed even up to this day)</li>
       <li>we make announcements debunking the false flags</li>
-      <li>creator of X, nonetheless, still bitches about it and, based on <em>fake news</em>, takes the opportunity to do what he didn&#39;t in almost 6 months, and create a full-fledged boycott out of... <small>absolutely nothing</small></li>
+      <li>creator of Z, nonetheless, still bitches about it and, based on <em>fake news</em>, takes the opportunity to do what he didn&#39;t in almost 6 months, and create a full-fledged boycott out of... <small>absolutely nothing</small></li>
       </ol>
       <p>So really... how can I (or anyone with half a brain) even take anything of this seriously?</p>
       <p>Because <strong><em>resentment</em></strong> is, by default, just <em>individual</em>. It needs to be <em>materialized into something seemingly logical</em> for the others to buy the idea. As such, people resort to stuff that appears to be &quot;factual&quot;; which is easily amplified among others who stumbled upon this &quot;broken telephone&quot; game by chance.</p>
@@ -238,15 +241,15 @@
       <h3 id="a-leakage">A leakage</h3>
       <p>Answers got leaked, (some) people got mad.</p>
       <p>About that, again: no regrets, nothing to apologize for.</p>
-      <p>The true reason for that? A lot of ongoing resentment for a whole year, obviously. In the span of just four months around mid-to-end 2022, not only I had to undergo the humilliation and the collective ingratitude of having my whole work vilified, but also lost a 2-year friendship with someone who snubbed it (he knows exactly who he is) and found out that a dear professor of mine who I liked much from the college times had passed away. I was lost in life.</p>
+      <p>The true reason for that? A lot of ongoing resentment for a whole year, obviously. In the span of just four months around mid-to-end 2022, not only I had to undergo the humilliation and the collective ingratitude of having my whole work vilified and going away<sup id="2"><a href="#ref-2">2</a></sup>, but also lost a 2-year friendship with someone who snubbed it (he knows exactly who he is) and found out that a dear professor of mine who I liked much from the college times had passed away. I was lost in life.</p>
       <p>But I digress. Nobody wants to hear or care about that.</p>
       <p>And it did work. It did work a lot better than expected. The torturing bad memories and trauma gave place to <strong><em>satisfaction</em></strong> and <strong><em>peace of mind</em></strong>. I could finally focus on other stuff, even though I still couldn&#39;t even look or touch that thing&#39;s code (and it continued being so for a whole year after the leak).</p>
       <p>Some folks went into a <em>paranoia</em> state thinking everything was going to be leaked. Someone even thought <a href="https://awathapokoi.neocities.org">their semi-obscure riddle</a> was relevant enough to be chosen for the massacre and changed literally half of its answers (no, seriously).</p>
-      <p>Evidentally, that wasn&#39;t case. Everything was <em>hand-chosen</em>.</p>
+      <p>Evidently, that wasn&#39;t case. Everything was <em>hand-chosen</em>.</p>
       <p>ARFAC was spared. Combinats was spared. Mishu&#39;s riddles were spared. Visions was spared, and other minor ones, and so on. Croc and Énigmapédia were more a lighter case and had their final-ish and secret levels spared. Finally, Cipher was more like a <em>gentlemen&#39;s agreement</em>.</p>
       <figure>
         <img src="enigma/gmt-leak.jpg" alt="gmt-leak">
-        <figcaption>As far as Cipher goes, its owner has gone past the age of caring about such stuff</figcaption>
+        <figcaption>As far as Cipher goes, its owner has gone past the age of caring about such stuff.</figcaption>
       </figure>
 
       <h3 id="conveniences-are-volatile">Conveniences are volatile</h3>
@@ -255,7 +258,7 @@
       <p>And, indeed, people used to think at first this was an nefarious one-man plan to rule the scene. As evidenced by when some cunt reached <em>my personal friend</em> asking him to delete our server (more on that later on); or when others dumbingly enough thought that I monopolized DB access; or when </p>
       <figure>
       <img src="enigma/moon-db.png" alt="moon-db">
-        <figcaption>I wouldn&#39;t be surprised by the latter acusation nowadays</figcaption>
+        <figcaption>I wouldn&#39;t be surprised by the latter accusation nowadays.</figcaption>
       </figure>
 
       <p>Then, recently, the tides have changed.</p>
@@ -279,7 +282,7 @@
       <p>But I <strong><em>absolutely draw the line</em></strong> when you try to kill useful technology.</p>
       <p>You&#39;ll never be seeing me childishly preaching against technology. Because I prefer to preach against <em>people</em> and their <em>faults</em> instead. At worst, you&#39;ll see me joking about and pointing inconsistencies in your bootlegs and arguments &mdash; and boy, that&#39;s fun to do &mdash; but you&#39;ll never me trying to take anything down. </p>
       <p>Plus, I draw the line again when you sadly start to involve and harass others just because... they have some relation with me?</p>
-      <p>Shockingly enough, all that I have are <em>friends</em> and <em>supporters</em>. Not a personal army; nor some popular ones you&#39;d cowardly cling to and reach to act against me; nor a mob to change all their statuses to <code>Stop using R!!1!</code> and conspire to take it down (while simultaneously preaching it&#39;s about <em>goodness</em> and denying no spite-driven/circlejerking behavior in their attiudes).</p>
+      <p>Shockingly enough, all that I have are <em>friends</em> and <em>supporters</em>. Not a personal army; nor some popular ones you&#39;d cowardly cling to and reach to act against me; nor a mob to change all their statuses to <code>Stop using R!!1!</code> and conspire to take it down (while simultaneously preaching it&#39;s about <em>goodness</em> and denying no spite-driven/circlejerking behavior in their attitudes).</p>
       <p>And food for thought: perhaps these people stick around, use and support the project because they do <strong><em>know</em></strong> about stuff your don&#39;t? And that, by being around (and having direct contact), they have a deeper understanding of my motivations, feelings, goals, and the logistics and inner workings of the project itself... than whoever has been shouting on the other side for years, out of their own biases, in this broken telephone game?</p>
       <p>Now you get one of my main reasons for writing such a long-ass text disclosing and exposing everything here?</p>
       <hr>
@@ -287,7 +290,7 @@
       <p>Enough of logistics and technical babbling, let&#39;s get to the exposure itself.</p>
       <h3 id="a-pr0n-experience">A pr0n experience</h3>
       <p>How can we forget about the best mutual group of friends in the riddle scene?</p>
-      <p>A sissy who exploits level leaks<sup>2</sup>, stays silent about it to play as the &quot;mischievous cuttie&quot;, and when called out for it, starts spreading behind-the-scenes gossip to convince others; but then was the audacity of calling <em>me</em> &quot;manipulative&quot; (a joke in itself)?</p>
+      <p>A sissy who exploits level leaks<sup id="3"><a href="#ref-3">3</a></sup>, stays silent about it to play as the &quot;mischievous cuttie&quot;, and when called out for it, starts spreading behind-the-scenes gossip to convince others; but then was the audacity of calling <em>me</em> &quot;manipulative&quot; (a joke in itself)?</p>
       <figure>
       <img src="enigma/catz-flag.png" alt="catz-flag">
         <figcaption>Given your country flag, I think in recent times you&#39;ve learned the hard way about the bittersweet taste of <em>cancel culture</em> yourself.</figcaption>
@@ -297,7 +300,7 @@
       <p>Some Fritz who manipulates me into a conversation, just to deive into generic judgemental trash talk defending his friends and then cut it abruptly at the end? Then again, I&#39;ve dealt with (and witnessed) enough of you people in the interwebz to know that, usually, you guys are always the same: rude, insufferable, morally obtuse, and still probably trying to make up for the disgraceful things your great-greatparents did 80~90 years ago. (sorry, I guess I&#39;m just taking the opportunity here to be unapologetically xenophobic here)._</p>
       <figure>
       <img src="enigma/lenz-solution.png" alt="lenz-solution">
-        <figcaption>Either back then or now, Germans have always been eager to apply a &quot;final solution&quot;</figcaption>
+        <figcaption>Either back then or now, Germans have always been eager to apply a &quot;final solution&quot;.</figcaption>
       </figure>
 
       <p>A chileno loonie who decides to leave all the riddle servers the bot was in, just because he didn&#39;t like a certain new feature from <a href="https://loritta.website/us/">a moderation bot</a>, implemented back then to ease the our work (what&#39;s funnier is that said bot was present in just <em>two</em> of all the riddle servers the R bot was in &mdash; probably got so scared that he left them all).</p>
@@ -322,7 +325,7 @@
       <p><img src="enigma/kad-start.png" alt="kad-start"></p>
       <p>So I just wonder... how many of your players do you <em>owe</em> me? A third? A half? The rest of that probably came from your smile girl xwitter and your 3-year old consecration in being active in your own Discord server (and to think merely 2 or so around Discord made me ill and to the point I started rethinking my whole life).</p>
       <p>The most peculiar part is... why didn&#39;t you have anything to say for the almost six months or so leading to it? Why did you wait for a false flag &mdash; and getting offended up next by a inconsistency in your argument &mdash; to take <em>action</em> against such an evil technology? Isn&#39;t that kinda strange?</p>
-      <p>Even that last announcement about zed, truthfully, was a <em>calculated risk</em>. I knew there was a chance you&#39;d overract to my response when proven wrong. <a href="enigma/kad-overreact.png">I called it</a>, and I was right</p>
+      <p>Even that last announcement about zed, truthfully, was a <em>calculated risk</em>. I knew there was a chance you&#39;d overract to my response when proven wrong. <a href="enigma/kad-overreact.png">I called it</a>... and I was right.</p>
       <p>Larping as the &quot;defender of privacy&quot; when you&#39;re literally <em>stalking</em> people as of late? Having your kiddies denounce and hunt others? And I&#39;m not even gonna talk about my ancient screenshots still floating and being shared around.</p>
       <p>Then, just recently, I stumbled almost completely by chance upon a <a href="enigma/kad-rant.txt">certain rant</a> of yours (which apparently went up just a month after you and your lovely gang drove me out of the scene).</p>
       <p>And oh boy, that was like digging for gold and finding diamonds.</p>
@@ -339,39 +342,42 @@
       <p>You&#39;re an expert at making art and devising/solving riddles... but that&#39;s pretty much it. You fail big time at programming, you fail at critical thinking, you fail at argumentation. You&#39;re the average autistic/neurodivergent savant whose whole personality and opinions are based on whatever you absorb like a sponge from the surroundings. And ignorance, for the good of the bad, is a <em>bliss</em>.</p>
       <figure>
       <img src="enigma/kad-big-boy.png" alt="zed-big-boy">
-        <figcaption>&quot;let me throw some big boy words about concepts i barely know so people are convinced i&#39;m fighting for something grand here&quot;</figcaption>
+        <figcaption>&quot;let me throw some big boy words about concepts i barely know so people are convinced i&#39;m fighting for something grand here&quot;.</figcaption>
       </figure>
 
       <p>And what does such a dangerous <code>popular + childish + stupid</code> summation brings you to? A <strong><em>sociopath</em></strong>.</p>
       <p>Which, ironically, is what you friends liked so much labelling me as in the past. But there&#39;s a vital difference. I didn&#39;t have Catzes, Lenzes and weavers back then to pratice oral sex on. And neither do I have nowadays a sizeable Discord server to preach half-baked truths to yes-kiddies that&#39;d always agree with me.</p>
-      <p>At least, at the end of the day, I guess I can rest safe at night knowing I have no naming ties with the porn industry.</p>
       <figure>
       <img src="enigma/zed-deobfuscate.png" alt="zed-deobfuscate">
         <figcaption>And with all said and done, that uber-secret level is still pathetically reachable through simple JS deobfuscation.</figcaption>
       </figure>
 
       <p><img src="enigma/fxn.png" alt="fxn"></p>
-      <p>Last and least, there&#39;s the absolute garbage, who pretty much acted as a smartass and out of pedantic self-interest since day one, and kept doing so.</p>
+      <p>Last and least, there&#39;s the one who pretty much acted as a smartass and out of pedantic self-interest since day one, and kept doing so.</p>
       <p>You know, way back when R went down for the first time, <em>you merely had to shut up</em>. We had already made amends several months before that, and I even <em>actively tried</em> to be nice with you later on. Once I was out of scene, I didn&#39;t plan to further interact, and a mutual position of neutrality would be the best for us both.</p>
       <p>But no, instead you had to play the hero.</p>
-      <p>You took advantage of my downfall, the <strong><em>privilege</em></strong> of being on the &quot;winning side&quot;, unburied whatever resentment you still had against me (either directly or <em>by proxy</em> through your friends), and dived head on in the <code>wizard</code> idea. Even had the audacity of using <em>my</em> own Wonderland server to preach that your &quot;professional group of coders&quot; would be &quot;making something even better than what we had before&quot;<sup>4</sup>.</p>
+      <p>You took advantage of my downfall, the <strong><em>privilege</em></strong> of being on the &quot;winning side&quot;, unburied whatever resentment you still had against me (either directly or <em>by proxy</em> through your friends), and dived head on in the <code>wizard</code> idea. Even had the audacity of using <em>my</em> own Wonderland server to preach that your &quot;professional group of coders&quot; would be &quot;making something even better than what we had before&quot;<sup id="4"><a href="#ref-4">4</a></sup>.</p>
       <p>When proven to be such a state-of-the-laugh flop, though, it was too late to turn back. You had already left your <code>180k</code> points behind and you had to cope somehow by keeping with the flow and shaming R with your parmesan nonsense (which probably either first came from you or your Asian fella RNS &mdash; both of who fail big time when trying to think outside the box).</p>
       <p>Then, you kept saying crap. You set a referrer-wall on your website with the help of your pr0n buddies (who apparently all made a <a href="enigma/string-groundbreaking.png">big deal</a> out of such an <em>outstanding</em> programming achievement), played the victim card (after all, you were <a href="enigma/moon-scary.png"><em>scawwed</em></a> of me before), threw a mix of no-context half-truths and nonsensical arguments, and called it a day.</p>
       <p>If there&#39;s some kind of person I hate more than a <em>smartass</em>, that is a <em>treacherous smartass</em>. As such, you can keep being rewarded with <a href="https://riddler.app/old/string-leak">funny texts</a> et al as fables of your personal nonsense.</p>
       <p>We don&#39;t care about your Wikipedia-driven average riddle not even as close as you think we do. But <em>I do care</em> about keeping it forever if is about sending a message and make you mad about it.</p>
-      <p>What really surprised me is that, wow, <a href="https://thestringharmony.com/riddlimg/">you <em>can</em> actually code something</a>. Though it uses PHP, so perhaps I should withdraw my comment. A pity that I plan to obsolete it<sup>5</sup> in a future extension version... however, it will be nice to work on something that is <em>not</em> complicated backend stuff for a change.</p>
+      <p>What really surprised me is that, wow, <a href="https://thestringharmony.com/riddlimg/">you <em>can</em> actually code something</a>. Though it uses PHP, so perhaps I should withdraw my comment. A pity that I plan to obsolete it<sup id="5"><a href="#ref-5">5</a></sup> in a future extension version... however, it will be nice to work on something that is <em>not</em> complicated backend stuff for a change.</p>
       <p>Ah, and by the way... I won&#39;t be circumventing your &quot;custom GUI credentials solution&quot; by any means (save from whatever lousy fix to make players able to record progress properly). Not only because it&#39;s beyond the scope of the project to account for such interfaces; but also, as the saying goes: you never interrupt an enemy when they&#39;re making a mistake.</p>
       <hr>
       <h2 id="closure">Closure</h2>
       <p>There&#39;s nothing you can do.</p>
-      <p>You want to stop using the platform due to thinking you&#39;re &quot;collaborating with something bad&quot; or convince someone to do so? Just like any other <strong><em>slacktivism</em></strong>, you&#39;ll be accomplishing pretty much nothing.</p>
-      <p>What the heck do you think <code>riddler.app</code> is? Some Instagram page where you report it and it goes away forever? You can&#39;t &quot;shut down&quot; it. You can&#39;t remove a single line of code from existence. You can&#39;t delete the database backups.</p>
+      <p>You want to stop using the platform due to thinking you&#39;re &quot;collaborating with something bad&quot; or convince someone to do so? Just like any other forms of <strong><em>slacktivism</em></strong>, you&#39;ll be accomplishing pretty much nothing.</p>
+      <p>What do you think <code>riddler.app</code> is? Some Instagram page where you report it and it goes away forever? You can&#39;t &quot;shut down&quot; it. You can&#39;t remove a single line of code from existence. You can&#39;t delete the database backups.</p>
       <p>Unless you find something truly <em>illegal</em> there (to which <em>&quot;he&#39;s cataloging online game answers without permission&quot;</em> and <em>&quot;he did meanie stuff years ago&quot;</em> aren&#39;t good arguments for, I believe), you won&#39;t be taking out neither the website, nor the extension, nor the bot.</p>
+      <p>Even if, in a <em>fabricated hypothetical situation</em>, I were forced to &quot;shut down&quot; R or whatever... why do you think I&#39;d go down that easily?</p>
+      <p>That&#39;s like pushing your luck against a judge who could throw you in jail at any time. Were I in a situation where I had nothing to hold me anymore, I&#39;d further leak, I dunno: the negatives of ZED, all of Poly, Abyss. etc etc etc... that would be quite the content.</p>
+      <p>But that&#39;s not the situation at hand here. By making R alive and thriving, we both make nice people happy and arseholes mad for a great amount of time... so why should I do otherwise?</p>
       <p>Stuff will keep being added and gears will keep spinning as long as the main collaborators are around. As far as new content goes, <em>a single active collaborator</em> is worth more than <code>100</code> common players. It&#39;s not an exageration nor a jab at anyone; but merely a fact.</p>
       <p>Ad revenue? There&#39;s none. So no money for me to earn in this either.</p>
       <p>Want to go changing answers? That&#39;s nice, a good opportunity to people to solve your levels again and us to employ our <a href="https://github.com/EmoonX/riddler/blob/master/web/web/admin/page_changes.py">page change admin script</a>.</p>
       <p>Want to put defamatory pages against R online? That&#39;s fun, just don&#39;t forget about what a <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts">browser extension can do</a>.</p>
-      <p>You <em>could</em> be affecting my ego (and boosting yours; after all, this is what it&#39;s all about) by temporarily slowing down the activity for weeks or even months... except that I won&#39;t care as I won&#39;t be around this time to witness it. And that&#39;s not even taking into account the fact that making me having less reasons to code and just means that there will be fewer updates, <em>including</em> occasional security/privacy ones to attenuate the very same complaints you guys were so concerned about.</p>
+      <p>You <em>could</em> be affecting my ego (and boosting yours; after all, this is what it&#39;s all about) by temporarily slowing down the activity for weeks or even months... except that I won&#39;t care as I won&#39;t be around this time to witness it.</p>
+      <p>And that&#39;s not even taking into account the fact that making me having less reasons to code just means that there will be fewer updates, <em>including</em> occasional security/privacy ones to attenuate the very same complaints you guys were so concerned about.</p>
       <p>Not my issue anymore. It&#39;s my life, and you dug that hole anyway.</p>
       <h3 id="time-is-fluid">Time is fluid</h3>
       <p>Furthermore, I&#39;ve experienced enough mob-dynamics behavior to know how short such tendencies fall. You can use the <em>momentum</em> in your favor for a short while, create <em>drama</em> and think you&#39;re doing something <em>big and everlasting</em>; but how do you plan to keep it up later? What about 6 months from now? A year? Two?</p>
@@ -379,14 +385,11 @@
       <p>You want me to believe, with a straight face, that <em>random hyperfocused autistic boycotts</em> have enough fuel to last for the long run?</p>
       <p>A year or two from now or so, when the majority of the mainstream riddles will already be all cataloged, released and archived... what do you plan to do?</p>
       <p>You can&#39;t control the older people who just want to play stuff the better way and could care less about your empty morals. You can&#39;t control those who arrive at R through web searches (and more and more are bound to, given the vast amounts of riddles and SEO improvements). You can&#39;t control those who don&#39;t live around Discord and have better stuff to do than spending time being indoctrinated by propaganda-spreading zoomer riddle servers.</p>
-      <p>And, finally, now you won&#39;t be able to shame/harass/denounce/force people using R, because they aren&#39;t obligated to make you know anymore what they&#39;re doing. Which is something that I, sadly, overlooked for way too much time: the fact that several players refrained from using the system not due to some moral bogus, but just because they didn&#39;t feel comfortable in having their usage exposed. Some just want a helpful tool and not a platform. You could say that&#39;s the <strong><em>true</em></strong> right to privacy &mdash; which is now being purposely ignored by the ones who don&#39;t practice what they preach.</p>
+      <p>And, finally, now you won&#39;t be able to shame/harass/denounce/force people using R, because they aren&#39;t obligated to make you know anymore what they&#39;re doing. Which is something that I, sadly, overlooked for way too much time: the fact that several players refrained from using the system not due to some moral bogus, but just because they didn&#39;t feel comfortable in having their usage exposed. Some just want a helpful tool and not a platform. You could say that&#39;s the <strong><em>true</em></strong> right to privacy &mdash; which is being purposely ignored by the ones who don&#39;t practice what they preach.</p>
       <h3 id="it-is-about-revenge-of-course">It is about revenge, of course</h3>
       <p>How couldn&#39;t it be?</p>
       <p>I didn&#39;t come back to the thing just to fragilize myself once again. Neither to get in <em>nice agreements</em> with fellas I prefer to stay at a good, good distance from. Nothing of this is new, and it has already been established <a href="https://riddler.app/old/level-omega">since the big return</a>.</p>
-      <p>What for you guys is mere inconveniences (&quot;don&#39;t feeling good&quot; about having a riddle on R, having the trouble of altering answers, etc), for me it was an <em>immensurable time of my life potentially lost forever</em>. Which, thankfully, for my own well being, isn&#39;t the case anymore.</p>
-      <p>Even if, in a <em>fabricated hypothetical situation</em>, I was forced to &quot;shut down&quot; R or whatever... why do you think I&#39;d go down that easily?</p>
-      <p>That&#39;s like pushing your luck against a judge who could throw you in jail at any time. Were I in a situation where I had nothing to hold me anymore, I&#39;d further leak, I dunno: the negatives of ZED, all of Poly, all of Euclidea. etc etc etc... that would be quite the content.</p>
-      <p>But I don&#39;t have to. It&#39;s like picking an insect and, instead of squashing it, just plucking leg by leg, one at a time. By making R alive and thriving, we both make nice people happy and imbeciles/arseholes mad for a great amount of time... so why should I do otherwise?</p>
+      <p>What for you guys is mere inconveniences (&quot;don&#39;t feeling good&quot; about having a riddle on R, having the trouble of altering answers, etc), for me it was an <em>immensurable amount of time in my life potentially lost forever</em>. Which, thankfully, for my own well being, isn&#39;t the case anymore.</p>
       <p>Why should I care? About those who don&#39;t listen? About those who repeat the same dusted denied arguments, over and over again? About those who, in despair, incite the masses just because they can&#39;t do it alone? Who recently went even <em>hunting</em> and <em>controlling</em> what others use or do?</p>
       <p>There are niches where I want to pave my way, be nice with everyone. The riddle one is not among them; it stopped being ages ago.</p>
       <h3 id="the-silver-lining">The silver lining</h3>
@@ -396,7 +399,7 @@
       <p>While some make nonsensical claims about &quot;privacy&quot; while kicking players from your servers, we allow them to play on incognito so they can use whatever they want without disclosing it to a anyone.</p>
       <p>While some are scared of &quot;data being centralized in one place&quot;, we are about riddles becoming <em>lost media</em> and buried forever. Thus, we embarked on the noble mission to do what nobody cared or could before: <em>to save old riddles from their eventual death</em>. And so shall it continue, choose you or not to ignore/vilify such an act.</p>
       <p>And now that the main dish has been served, I can safely remove myself from the anxiety/pressure-driven programming/cataloging work and watch the riddle capital being engulfed in this beautiful mix of <strong><em>order</em></strong> and <strong><em>chaos</em></strong>. Nothing can stop the future.</p>
-      <p>And so should it be, just as my occasional playground from now on. Others are capable of continuing such a great piece of work, so I can finally focus just on QoL coding improvements here and there.</p>
+      <p>And so should it be, as my occasional playground. Others are capable of continuing such a great piece of work, so I can finally focus just on QoL coding improvements here and there.</p>
       <p>But since they&#39;re not <code>emoon</code>... try to not go <em>that hard</em> on them, okay?</p>
       <hr>
       <p>In the end, there are two facts to be extracted from all this:</p>
@@ -406,18 +409,13 @@
       </ol>
       <p>From me, there were no more regrets already. And now, finally, there&#39;s also nothing left to say either.</p>
       <hr>
-      <ol>
-      <li><p>If you dig enough, you can find an ancient post of mine in the Cipher&#39;s Discord server disclosing a very similar stance.</p>
-      </li>
-      <li><p>Did it before it was cool?</p>
-      </li>
-      <li><p>One little known fact is that R was never explicitly meant to go down at that time. It simply happened because, one day, the SSL certificate for <code>riddler.app</code> expired, which made then the Chrome Web Store taking down the extension for <a href="enigma/yellow-magnesium.png">&quot;not providing promised functionality&quot;</a> (?), plus the fact that I would have to go to a (then) complicated process to recover access to the AWS instance due to having lost the RSA key pair for it, and... I didn&#39;t even have the energy to bother or care anymore. Thus it just stayed dead.</p>
-      </li>
-      <li><p>This last quote isn&#39;t sarcasm. It was said, <em>ipsu-literis</em>, and they made people really believe in it. Yes, you can laugh.</p>
-      </li>
-      <li><p>And nope, once again, <a href="enigma/extension-images.png">not making stuff up</a>.</p>
-      </li>
-      </ol>
+      <footer>
+        <p id="ref-1">1. <a href="#1">^</a> If you dig enough, you can find an ancient post of mine in the Cipher&#39;s Discord server disclosing a very similar stance.</p>
+        <p id="ref-2">2. <a href="#2">^</a> One little known fact is that R was never explicitly meant to go down at that time. It simply happened because, one day, the SSL certificate for <code>riddler.app</code> expired, which made then the Chrome Web Store taking down the extension for <a href="enigma/yellow-magnesium.png">&quot;not providing promised functionality&quot;</a> (?), plus the fact that I would have to go to a (then) complicated process to recover access to the AWS instance due to having lost the RSA key pair for it, and... I didn&#39;t have the energy to bother or even care anymore. Thus, it just stayed dead.</p>
+        <p id="ref-3">3. <a href="#3">^</a> Did it before it was cool?</p>
+        <p id="ref-4">4. <a href="#4">^</a> These last two quotes aren&#39;t sarcasm. Both were said, <em>ipsu-literis</em>, and they made people really believe in it. Yes, you can laugh.</p>
+        <p id="ref-5">5. <a href="#5">^</a> And nope, once again, <a href="enigma/extension-images.png">not making stuff up</a>.</p>
+      </footer>
     </article>
   </body>
 </html>

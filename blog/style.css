@@ -1,11 +1,15 @@
 body {
 	margin: auto;
   width: 700px;
-	padding: 64px;
+	padding: 3em 1em;
 	background-color: rgb(28, 27, 34);
 	color: rgb(251, 251, 254);
   font-family: sans-serif;
   line-height: 1.5em;
+}
+
+a {
+  color: cadetblue;
 }
 
 img {
@@ -18,4 +22,8 @@ figcaption {
 	font-size: .9em;
 	line-height: 1.48em;
 	font-style: italic;
+}
+
+footer {
+  font-size: .8em;
 }
