@@ -13,3 +13,9 @@ img {
   border-radius: .2em;
   box-shadow: 0 0 .3em #0004;
 }
+
+figcaption {
+	font-size: .9em;
+	line-height: 1.48em;
+	font-style: italic;
+}
