@@ -78,7 +78,7 @@ So much for me in accepting it, I see.
 
 ### Misguided opinions
 
-That's not to say everyone with such requests had previous resentment at play. But as for the ones who don't... there are two instances which I simply can't leave unmentioned.
+That's not to say everyone with such requests had previous resentment at play. But as for the ones who don't... there are a particular case I can't simply leave unmentioned.
 
 #### Abyss
 
@@ -96,35 +96,6 @@ What _I do am aware_, from what my friend geo told me, is that, humorously, one 
 </figure>
 
 I just hope nothing harsh happened to the `30` or so people in that server on August 8th.
-
-#### Polychromasia
-
-This one is just plainly amusing. So let's try to understand what's going on here.
-
-You didn't seem to have an issue at first about what we were doing (not that we'd be even obligated to reach you, to start with):
-
-![helium-ok.png](enigma/helium-ok.png)
-
-Then, one day, you just go ["oh, this isn't fine anymore"](enigma/helium-not-ok.png).
-
-So, basically, what you're suggesting is that, after five months or so of your riddle(s) in the platform:
-- geo to throw away all his work in previously solving the entirety of Poly and harvesting almost `800` pages for it (plus the several other hundreds we did for Euclidea);
-- us to discard the finesse we had in ranking all the levels and meticulously devising achievements;
-- dozens of players to go back and have the headache of bookmarking everything again.
-
-Oh... because you "don't feel good about it (anymore)". Because you "don't want to see your riddles involved" (even though they, directly, aren't).
-
-There's two words for that. One is ***selfishness***. The other is **egohitism**.
-
-If you were so concerned about the logistics and drama (the latter you haven't experienced first-handed), you could have just communicated it with any of us. Instead, in more than one occasion, you acted evasively when I tried to have a conversation with you. If you weren't bound to have success by talking with me &mdash; and not due to "how [I] acted in the past", but simply because I in fact had already unfriended you following your last nonsense &mdash; geo was always there for you to reach.
-
-What you actually did?
-1. not only you haven't talked about any of that crap with us, but
-2. you also started to fuel the propaganda using your own server, either passively or actively
-
-Granted, you're not only pretty young, but also the average late gen z American and part Filipino. Geez, that's like the _**Holy Trinity** of bad communication_. Not only that, but you base your riddles and even your whole personality around [someone else](enigma/kad-card.png) and his works. It can't be helped.
-
-However, I do advise you, as a friendly advice, to reconsider the ways of dealing with such future similar endeavors in your life.
 
 ### The fine print
 
