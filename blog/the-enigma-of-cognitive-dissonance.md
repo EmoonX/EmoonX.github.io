@@ -412,7 +412,7 @@ Then there's the celebrity. And oh boy, how much can be said about this one.
 
 If sharing answers is ["stooping too low"](https://zedpuzzle.neocities.org/craters/knight)... then what can be said about someone who uses their own Discord server to spread influence against another party &mdash; and precisely having done so just because you didn't like the [presented counterargumentation](https://riddler.app/old/lorem-ipsum), saw it as a "personal attack" and felt compelled to play dirty and going all-in?
 
-If I'm a [hypocrite](https://zedpuzzle.neocities.org/youmotherfucker)... then I probably should remind you (and probably nobody else knows this for a fact) that ***I*** was the one to[_personally reach you_ with an offer to add ZED to the platform. And that, by doing so, your riddle not only got itself rid from having to use jurassic PHP forums ever again, but also kickstarted an exponential playerbase growth which was pretty much essential for it to stablish itself as one of the most popular ones nowadays.
+If I am a [hypocrite](https://zed.archive.riddler.app/youmotherfucker.htm)... then I probably should remind you (and probably nobody else knows this for a fact) that ***I*** was the one to[_personally reach you_ with an offer to add ZED to the platform. And that, by doing so, your riddle not only got itself rid from having to use jurassic PHP forums ever again, but also kickstarted an exponential playerbase growth which was pretty much essential for it to stablish itself as one of the most popular ones nowadays.
 
 ![kad-start](enigma/kad-start.png)
 
@@ -471,7 +471,7 @@ You took advantage of my downfall, the ***privilege*** of being on the "winning 
 
 When proven to be such a state-of-the-laugh flop, though, it was too late to turn back. You had already left your `180k` points behind and you had to cope somehow by keeping with the flow and shaming R with your parmesan nonsense (which probably either first came from you or your Asian fella RNS &mdash; both of who fail big time when trying to think outside the box).
 
-Then, you kept saying crap. You set a referrer-wall on your website with the help of your pr0n buddies (who apparently all made a [big deal](enigma/string-groundbreaking.png) out of such an _outstanding_ programming achievement), played the victim card (after all, you were [_scawwed_](enigma/moon-scary.png) of me before), threw a mix of no-context half-truths and nonsensical arguments, and called it a day.
+Then, you kept saying crap. You set a referrer-wall on your website with the help of your pr0n buddies (who apparently all made a [big deal](enigma/string-groundbreaking.png) out of such an _outstanding_ programming achievement), played the victim card (after all, you were [_scawwed_](enigma/fxn-moon-scary.png) of me before), threw a mix of no-context half-truths and nonsensical arguments, and called it a day.
 
 If there's some kind of person I hate more than a _smartass_, that is a _treacherous smartass_. As such, you can keep being rewarded with [funny texts](https://riddler.app/old/string-leak) et al as fables of your personal nonsense.
 
