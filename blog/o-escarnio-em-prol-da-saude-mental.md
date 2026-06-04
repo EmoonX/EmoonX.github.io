@@ -2,15 +2,17 @@
 
 ![Saúde Mental](saude/saude-mental.png)
 
-Regina foi recomendada pelo seu pai, homeopata. Seguia a cartilha que na prática se resumia a "bater papo". Otimismo, "ver a vida de outra forma", sugestões vazias. Consultas se alongavam sem resultado nem perspectiva de melhora.
+`Regina` foi recomendada pelo seu pai, homeopata. Seguia a cartilha que na prática se resumia a "bater papo". Otimismo, "ver a vida de outra forma", sugestões vazias. Consultas se alongavam sem resultado nem perspectiva de melhora.
 
-Mara trabalhava em opostos: era psiquiatra, mas também "espiritualista". Bem-intencionada, boa de papo, porém sem traquejo algum nos extremos além da esperança gerada pelos seus próprios dogmas. Tinha seu próprio prazer politicamente incorreto: fumava, fumava... até que o fumo a vitimou. Padeceu com sus 70 e poucos anos. No fim, enquanto outros esperavam serem salvos, não conseguiu salvar nem a si mesma.
+`Mara` trabalhava em opostos: era psiquiatra, mas também "espiritualista". Bem-intencionada, boa de papo, porém sem traquejo algum nos extremos além da esperança gerada pelos seus próprios dogmas. Tinha seu próprio prazer politicamente incorreto: fumava, fumava... até que o fumo a vitimou. Padeceu com sus 70 e poucos anos. No fim, enquanto outros esperavam serem salvos, não conseguiu salvar nem a si mesma.
 
-Fábio era hipnoterapeuta, baseado nos capciosos métodos de "reprogramação mental": colocar-se num estado de profundo relaxamento, imaginar-se num campo florido, a fim do subcosnciente estar mais apto e receptivo a mudanças de mentalidade. Um dia, porém, Fábio desapareceu. Sem deixar vestígios. Número apagado no WhatsApp. Raptado, esquecido, ninguém sabe. Absorvido, ironicamente, pelo campo das ideias que tanto buscava nos outros.
+`Fábio` era hipnoterapeuta, baseado nos capciosos métodos de "reprogramação mental": colocar-se num estado de profundo relaxamento, imaginar-se num campo florido, a fim do subcosnciente estar mais apto e receptivo a mudanças de mentalidade. Um dia, porém, Fábio desapareceu. Sem deixar vestígios. Número apagado no WhatsApp. Raptado, esquecido, ninguém sabe. Absorvido, ironicamente, pelo campo das ideias que tanto buscava nos outros.
 
-Eduardo era um coach. Carismático, sabia vender seu peixe, tinha sempre uma resposta pra tudo. Acreditava no "poder das palavras", _micromanagement_: não poder falar "meu problema", apenas "problema", pois caso contrário você estaria " pois Modelo predatório que prometia milagres em apenas três consultas. Depois desambuigava para outras: _constelação familiar_, recomendações, propaganda automatizada no WhatsApp.
+`Eduardo`, um coach. Carismático, sabia vender seu peixe, tinha sempre uma resposta pra tudo. Acreditava no "poder das palavras", _micromanagement_: não poder falar "meu problema", apenas "problema", pois caso contrário você estaria " pois Modelo predatório que prometia milagres em apenas três consultas. Depois desambuigava para outras: _constelação familiar_, recomendações, propaganda automatizada no WhatsApp.
 
 ![Doutora](saude/doutora.jpg)
+
+`Sheilla`...
 
 Sheilla receitava remédios. E mal o fazia. Se aproveitava da brecha psiquiátrica que a permitia ganhar seus 500 reais por consulta sem praticamente um pingo de esforço. Prosperava em cima de amostras grátis dadas aqui e ali, e o _gatekeep_ de acesso à medicação por meio das valorosas receitas dadas.
 
@@ -24,7 +26,7 @@ Dava o remédio que mais funcionava nas cobaias e que deva na telha, ainda que [
 
 Mas, no fundo, não havia nada do que reclamar. O dinheiro era máximo, o esforço e a interação eram mínimos. No fim do mês, poderia descansar feliz sabendo que seus R$ 30~40 mil caíram na conta, e que ninguém poderia fazer nada a respeito disso. E assim se seguiria até a aposentadoria (que poderia muito bem ser postergada &mdash; afinal tal trabalho tão nobre merece continuidade).
 
---
+---
 
 ## Os três pilares
 
@@ -67,7 +69,7 @@ Ademais, pessoas diferentes são susceptíveis a tratamentos em níveis diferent
 
 Infelizmente, eu não me enquadro(ava) em nenhum desses dois contigentes.
 
---
+---
 
 ## Quis custodiet ipsos custodes?
 
@@ -91,7 +93,7 @@ Cedo ou tarde, a segunda opção é inevitável. Só que não havia ninguém par
 
 Ninguém para questionar o que estava sendo feito de errado. Ninguém para te avisar sobre estar fora de rota. Ninguém com o olhar mais aguçado de poder metrificar que melhora nenhuma estava acontecendo, num mundo em que o tempo é precioso. Ninguém para quebrar o encanto e te guiar à luz.
 
---
+---
 
 Se defender ante ao sofrimento não pode ser feito com urgência, mas exige **_celeridade_**.
 
