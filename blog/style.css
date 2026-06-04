@@ -1,10 +1,11 @@
 body {
 	margin: auto;
-  width: 700px;
+  width: 750px;
 	padding: 3em 1em;
-	background-color: rgb(28, 27, 34);
+	background-color: rgb(18, 17, 23);
 	color: rgb(251, 251, 254);
   font-family: sans-serif;
+  font-size: 1.1em;
   line-height: 1.5em;
 }
 
