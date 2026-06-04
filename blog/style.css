@@ -13,15 +13,30 @@ a {
 }
 
 img {
+  display: block;
+  margin: 2em auto;
   max-width: 100%;
   border-radius: .2em;
-  box-shadow: 0 0 .3em #0004;
+}
+figure > img {
+  margin: auto;
 }
 
 figcaption {
 	font-size: .9em;
 	line-height: 1.48em;
 	font-style: italic;
+}
+
+hr {
+  margin: 2em auto;
+  border-image: linear-gradient(
+    to right,
+    transparent,
+    #fff8 50%,
+    transparent
+  );
+  border-image-slice: 1;
 }
 
 footer {
