@@ -2,17 +2,17 @@
 
 ![Saúde Mental](saude/saude-mental.png)
 
-`Regina` mexia com psicanálise e foi recomendada pelo seu pai, homeopata. Seguia a cartilha que na prática se resumia a "bater papo". Otimismo, "ver a vida de outra forma", sugestões vazias. Consultas se alongavam sem resultado nem perspectiva de melhora.
+[`Regina`](https://psicologareginasouza.com.br/) mexia com psicanálise e foi recomendada pelo seu pai, homeopata. Seguia a cartilha que na prática se resumia a "bater papo". Otimismo, "ver a vida de outra forma", sugestões vazias. Consultas se alongavam sem resultado nem perspectiva de melhora.
 
 `Mara` trabalhava em opostos: psiquiatra, mas também "espiritualista". Bem-intencionada, boa de papo, porém sem traquejo algum nos extremos além da esperança gerada pelos seus próprios dogmas. Tinha seu prazer politicamente incorreto: fumava, fumava... até que o fumo a vitimou. Padeceu com seus 70 e poucos anos. No fim, enquanto outros esperavam serem salvos, a salvação não veio nem para si mesma.
 
-`Fábio` era hipnoterapeuta, baseado nos capciosos métodos de "reprogramação mental": colocar-se num estado de profundo relaxamento, imaginar-se num campo florido, a fim do subconsciente estar mais apto e receptivo a mudanças de mentalidade. Um dia, porém, Fábio desapareceu. Sem deixar vestígios. Número apagado no WhatsApp. Raptado, esquecido, ninguém sabe.
+[`Fábio`](https://agenda.fabionasa.com.br/institucional/sobre) era hipnoterapeuta, baseado nos capciosos métodos de "reprogramação mental": colocar-se num estado de profundo relaxamento, imaginar-se num campo florido, a fim do subconsciente estar mais apto e receptivo a mudanças de mentalidade. Um dia, porém, Fábio desapareceu. Sem deixar vestígios. Número apagado no WhatsApp. Raptado, esquecido, ninguém sabe.
 
-`Eduardo`, um coach. Carismático, sabia capitalizar as agonias alheias, tinha sempre uma resposta pra tudo. Acreditava no "poder das palavras", _micromanagement_: não poder falar "meu problema", apenas "problema", pois caso contrário você estaria "validando estigmas negativos". Modelo predatório que prometia milagres em apenas três consultas. Depois, desambiguava para outras: _constelação familiar_, recomendações, propaganda automatizada no WhatsApp.
+[`Eduardo`](https://www.molinaterapeuta.com/), um coach. Carismático, sabia capitalizar as agonias alheias, tinha sempre uma resposta pra tudo. Acreditava no "poder das palavras", _micromanagement_: não poder falar "meu problema", apenas "problema", pois caso contrário você estaria "validando estigmas negativos". Modelo predatório que prometia milagres em apenas três consultas. Depois, desambiguava para outras: _constelação familiar_, recomendações, propaganda automatizada no WhatsApp.
 
 ![Doutora](saude/doutora.jpg)
 
-`Sheila`...
+[`Sheila`](https://www.drasheilahauck.com/)...
 
 Sheila lidava com remédios. Sua razão de existência. Aproveitava-se da brecha psiquiátrica que a permitia ganhar seus 500 reais (ou mais) por consulta sem praticamente um pingo de esforço. Prosperava em cima de amostras grátis dadas aqui e ali, e o _gatekeep_ de acesso à medicação por meio das valorosas receitas dadas.
 
